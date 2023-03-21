@@ -1,10 +1,10 @@
-### Vue3 Clash of Clans
+# Vue3 Clash of Clans
 
 The Vue3 Clash of Clans project is a web application developed using Vue.js 3. The app provides a user interface for Clash of Clans players to view and manage their in-game clan and base. The app is built using Vue.js 3, Vue Router.
 
 ## Table of Contents
 
-- [Installation](#https://ephemeral-sprinkles-06f1da.netlify.app/#/)
+[You can see demo: ](https://ephemeral-sprinkles-06f1da.netlify.app/#/)
 
 ## Getting Started
 
@@ -21,9 +21,3 @@ npm install
 ```bash
 npm run serve
 ```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
